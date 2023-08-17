@@ -8,7 +8,7 @@ The main focus of this notebook is to showcase a brief introduction to Agents.
 
 There are 3 main tasks in this notebook:
 
-1. Contruct a Barbie retriever
+1. Construct a Barbie retriever
 2. Construct an Oppenheimer retriever
 3. Combine the two and allow users to query both resources from a single input through the use of Agents
 
@@ -19,3 +19,20 @@ Based on Tuesday's session - construct a Chainlit (or Gradio) application that a
 ## Share 🚀
 
 Make a social media post about your final application.
+
+## System Architecture Diagrams
+
+### Ensemble Retrieval
+
+[`EnsembleRetriever`](https://api.python.langchain.com/en/latest/retrievers/langchain.retrievers.ensemble.EnsembleRetriever.html#langchain.retrievers.ensemble.EnsembleRetriever)
+
+Leverages the [RRF](https://plg.uwaterloo.ca/~gvcormac/cormacksigir09-rrf.pdf) reranking algorithm to combine sparse and dense search results for increased effectiveness for relevant document retrieval.
+
+![image](https://i.imgur.com/mn4jXAz.png)
+
+### Multi-query Retrieval
+
+We can query multiple sources and then allow the LLM to parse the results from both in order to decide the final answer. 
+
+![image](https://i.imgur.com/g3vGp4P.png)
+
