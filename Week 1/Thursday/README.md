@@ -22,6 +22,16 @@ Make a social media post about your final application.
 
 ## System Architecture Diagrams
 
+### ReAct Agents
+
+We'll condense the RAQA diagram into a single component.
+
+![image](https://i.imgur.com/LqIln4g.png)
+
+Now, let's look at the Agent diagram (in a slightly simplified diagram to avoid arrow-pocolypse)
+
+![image](https://i.imgur.com/H55v09C.png)
+
 ### Ensemble Retrieval
 
 [`EnsembleRetriever`](https://api.python.langchain.com/en/latest/retrievers/langchain.retrievers.ensemble.EnsembleRetriever.html#langchain.retrievers.ensemble.EnsembleRetriever)
