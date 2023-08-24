@@ -2,7 +2,7 @@
 
 Today we'll take a look at how we can wrap our finetuning process into Chainlit and have our own dynamic fine-tuning machine. 
 
-We'll be leveraging [this](https://github.com/AI-Maker-Space/LLM-Ops-Vault/blob/main/Week%202/Second%20Session/Automated%20Fine-tuning%20with%20LLamaIndex.ipynb) notebook for finetuning.
+We'll be leveraging [this](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1/blob/main/Week%202/Thursday/Automated%20Fine-tuning%20with%20LLamaIndex.ipynb) notebook for finetuning.
 
 # Build 🏗️
 There are 2 main tasks for this assignment:
