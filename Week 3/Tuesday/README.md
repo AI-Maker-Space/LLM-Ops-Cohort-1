@@ -1,6 +1,6 @@
 # Combining Systems
 
-We'll be combining the two systems listed below into a single `docker compose` file!
+We'll be combining the two systems listed below into a single `docker-compose.yaml` file!
 
 # Build 🏗️
 There are two tasks for today:
