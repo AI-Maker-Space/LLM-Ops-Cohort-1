@@ -1,0 +1,4 @@
+.env
+.vscode
+.chroma
+__pycache__
