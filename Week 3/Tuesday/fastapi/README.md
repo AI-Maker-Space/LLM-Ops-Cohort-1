@@ -11,7 +11,5 @@
 ### Tasks:
 
 1. Provide a simple system diagram (created in whatever format you feel best communicates the flow) for the application
-2. Provide an example output from the model.
-    - NOTE: Getting an output is a multi-step process. 
 
 This is meant to be a challenging task - so you might need to spend some time troubleshooting and tinkering!
