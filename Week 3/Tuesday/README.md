@@ -1,4 +1,4 @@
-# Combining Systems
+# 🖇️ Combining Systems: Chainlit App with Langchain and FastAPI Deployment
 
 We'll be combining the two systems listed below into a single `docker-compose.yaml` file!
 
