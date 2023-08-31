@@ -94,3 +94,7 @@ We'll add it as an `Inline Policy`:
 After this, we should be good to query our endpoint and carry on to the Notebook!
 
 Make sure to add your API Gateway URL!
+
+# Sample Notebook for LangChain Access
+
+[Colab Notebook](https://colab.research.google.com/drive/147Oy3n601T8MFWulmKdCwC7PrxDKuyND?usp=sharing)https://colab.research.google.com/drive/147Oy3n601T8MFWulmKdCwC7PrxDKuyND?usp=sharing
