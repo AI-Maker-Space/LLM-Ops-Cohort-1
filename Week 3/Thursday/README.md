@@ -3,7 +3,7 @@
 Today, we'll be creating a SageMaker endpoint, and serving it through the API Gateway!
 
 # Build 🏗️
-There are 2 main tasks for this assignment:
+There is 1 main task for this assignment:
 
 - Endpoint Hosting on AWS
 
