@@ -97,4 +97,4 @@ Make sure to add your API Gateway URL!
 
 # Sample Notebook for LangChain Access
 
-[Colab Notebook](https://colab.research.google.com/drive/147Oy3n601T8MFWulmKdCwC7PrxDKuyND?usp=sharing)https://colab.research.google.com/drive/147Oy3n601T8MFWulmKdCwC7PrxDKuyND?usp=sharing
+[Colab Notebook](https://colab.research.google.com/drive/147Oy3n601T8MFWulmKdCwC7PrxDKuyND?usp=sharing)
