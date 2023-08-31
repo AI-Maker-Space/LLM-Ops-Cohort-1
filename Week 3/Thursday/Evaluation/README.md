@@ -12,6 +12,8 @@ Share results of your evaluations!
 # Share 🚀
 Make a social media post about your final application and tag @AIMakerspace
 
+# Example Notebooks
+
 ### Evaluating RAG
 
 Based on the `Deploy` section: Here's a [notebook](https://colab.research.google.com/drive/1Q2JCptzWd7lj9wggPaipwy3cigmgEGDI?usp=sharing) on how we can implement RAGAS with LangChain!
