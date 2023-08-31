@@ -1,17 +1,14 @@
-# Building A Finetuning Machine Using Chainlit
+# Deploying an Endpoint and Making it Accessible Through AWS
 
-Today we'll take a look at how we can wrap our finetuning process into Chainlit and have our own dynamic fine-tuning machine. 
-
-We'll be leveraging [this](https://github.com/AI-Maker-Space/LLM-Ops-Vault/blob/main/Week%202/Second%20Session/Automated%20Fine-tuning%20with%20LLamaIndex.ipynb) notebook for finetuning.
+Today, we'll be creating a SageMaker endpoint, and serving it through the API Gateway!
 
 # Build 🏗️
 There are 2 main tasks for this assignment:
 
-- Verify you can run the notebook
-- Wrap the notebook using Chainlit
+- Endpoint Hosting on AWS
 
 # Ship 🚢
-Construct a Chainlit application using the notebook that allows users to interface with the application.
+Ship the endpoint!
 
 # Share 🚀
 Make a social media post about your final application and tag @AIMakerspace
