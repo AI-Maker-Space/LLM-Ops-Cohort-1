@@ -1,4 +1,4 @@
-# Week 3 Day 1
+# Week 3 Day 2
 
 We're going to cover 2 separate topics today: 
 
