@@ -4,7 +4,7 @@
 </p>
 
 
-## <h1 align="center" id="heading">:wave: Welcome to LLM Ops: LLMs in production, Cohort 1!</h1>
+## <h1 align="center" id="heading">:wave: Welcome to LLM Ops: LLMs in Production, Cohort 1!</h1>
 
 Access all of the concepts and code directly [YouTube](https://www.youtube.com/playlist?list=PLrSHiQgy4VjGQohoAmgX9VFH52psNOu71) to start building, shipping, and sharing with LLM Ops!
 
