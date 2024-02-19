@@ -15,7 +15,7 @@ Access all of the concepts and code directly [YouTube](https://www.youtube.com/p
 
 *Note: This course was taught from August, 15, 2023 to September 7, 2023.  As such, there may be aspects of the code that require updates for full functionality.  Please submit pull requests directly if you find something that you can help improve!*
 
-![](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1/assets/48775140/8017189d-86ef-47b8-8808-e6c9661f74ac)
+![LLM Ops _Open-Source Flyer](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1/assets/48775140/348f4b57-584e-4e7c-a365-416a97ac14f3)
 
 ## AIM Community Events
 
