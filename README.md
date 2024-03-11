@@ -9,15 +9,15 @@
 Access all of the concepts and code directly [YouTube](https://www.youtube.com/playlist?list=PLrSHiQgy4VjGQohoAmgX9VFH52psNOu71) to start building, shipping, and sharing with LLM Ops!
 
 ### Async Learning Outcomes
-1. Build complex apps with LLM Ops frameworks including LangChain and LlamaIndex
-2. Understand LLM product development methods, from prompting to retrieval and beyond
-3. Build, deploy, evaluate, and operate your own end-to-end production RAG system
+1. Build complex apps with LLM Ops frameworks including LangChain and LlamaIndex.
+2. Understand LLM product development methods, from prompting to retrieval and beyond.
+3. Build, deploy, evaluate, and operate your own end-to-end production RAG system.
 
 *Note: This course was taught from August, 15, 2023 to September 7, 2023.  As such, there may be aspects of the code that require updates for full functionality.  Please submit pull requests directly if you find something that you can help improve!*
 
 ![LLM Ops _Open-Source Flyer](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1/assets/48775140/348f4b57-584e-4e7c-a365-416a97ac14f3)
 
-## AIM Community Events
+## LLM Ops Cohort 1, Session Videos
 
 | Session | Video Link | Code |  Slides |
 | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
